@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-memoro/static/css/main.5f361e03.chunk.css",
+    "main.js": "/react-memoro/static/js/main.976229ec.chunk.js",
+    "main.js.map": "/react-memoro/static/js/main.976229ec.chunk.js.map",
+    "runtime-main.js": "/react-memoro/static/js/runtime-main.a8229975.js",
+    "runtime-main.js.map": "/react-memoro/static/js/runtime-main.a8229975.js.map",
+    "static/js/2.eecb0d5b.chunk.js": "/react-memoro/static/js/2.eecb0d5b.chunk.js",
+    "static/js/2.eecb0d5b.chunk.js.map": "/react-memoro/static/js/2.eecb0d5b.chunk.js.map",
+    "index.html": "/react-memoro/index.html",
+    "precache-manifest.91e6c1b1765d574b119229123a5be487.js": "/react-memoro/precache-manifest.91e6c1b1765d574b119229123a5be487.js",
+    "service-worker.js": "/react-memoro/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/react-memoro/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.eecb0d5b.chunk.js.LICENSE.txt": "/react-memoro/static/js/2.eecb0d5b.chunk.js.LICENSE.txt",
+    "static/media/logo1.png": "/react-memoro/static/media/logo1.9b77d99f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a8229975.js",
+    "static/js/2.eecb0d5b.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.976229ec.chunk.js"
+  ]
+}
